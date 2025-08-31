@@ -65,7 +65,7 @@ public final class MecanumDrive {
         // drive model parameters
         public double inPerTick = 0.00232517584;
         public double lateralInPerTick =  0.0017292219918534656;
-        public double trackWidthTicks = 0;
+        public double trackWidthTicks = 7113.012079381685;
 
         // feedforward parameters (in tick units)
         public double kS = 1.9064993576960196;
